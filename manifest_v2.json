@@ -8,13 +8,20 @@
       "preview/01_home.png",
       "preview/02_search.png",
       "preview/03_results_en.png",
-      "preview/04_results_zh.png"
+      "preview/04_results_zh.png",
+      "preview/05_redmi_watch.png",
+      "preview/06_band_10.png",
+      "preview/07_band_pro.png",
+      "preview/08_band_pro_2.png",
+      "preview/09_band_pro_3.png",
+      "preview/10_band.png",
+      "preview/11_watch.png"
     ],
     "icon": "icon.png",
     "cover": "cover.png",
     "author": [
       {
-        "name": "睡不着的鸿鹄",
+        "name": "bandbbs_2602757",
         "bindABAccount": true
       }
     ]
@@ -32,6 +39,34 @@
       "file_name": "com.watch.dic.release.2.2.0.rpk"
     },
     "xmb10nfc": {
+      "version": "2.2.0",
+      "file_name": "com.watch.dic.release.2.2.0.rpk"
+    },
+    "xmb9": {
+      "version": "2.2.0",
+      "file_name": "com.watch.dic.release.2.2.0.rpk"
+    },
+    "xmb9p": {
+      "version": "2.2.0",
+      "file_name": "com.watch.dic.release.2.2.0.rpk"
+    },
+    "xmws4": {
+      "version": "2.2.0",
+      "file_name": "com.watch.dic.release.2.2.0.rpk"
+    },
+    "xmrw5": {
+      "version": "2.2.0",
+      "file_name": "com.watch.dic.release.2.2.0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "2.2.0",
+      "file_name": "com.watch.dic.release.2.2.0.rpk"
+    },
+    "xmrw6": {
+      "version": "2.2.0",
+      "file_name": "com.watch.dic.release.2.2.0.rpk"
+    },
+    "xmb10p": {
       "version": "2.2.0",
       "file_name": "com.watch.dic.release.2.2.0.rpk"
     }
