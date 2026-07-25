@@ -3,7 +3,7 @@
     "id": "com.watch.dic",
     "restype": "quick_app",
     "name": "腕上词典",
-    "description": "小米手环上的离线英汉词典，支持模糊搜索、变形查词、收藏、搜索历史等功能。约15k英文词条 + 128k中文词组，全程离线。",
+    "description": "免费的小米手环上的离线英汉词典，支持模糊搜索、变形查词、收藏、搜索历史等功能。约15k英文词条 + 128k中文词组，全程离线。",
     "preview": [
       "preview/01_home.png",
       "preview/02_search.png",
