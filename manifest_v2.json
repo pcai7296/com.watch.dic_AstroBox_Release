@@ -5,6 +5,7 @@
     "name": "腕上词典",
     "description": "免费的小米手环上的离线英汉词典，支持模糊搜索、变形查词、收藏、搜索历史等功能。约15k英文词条 + 128k中文词组，全程离线。",
     "preview": [
+      "media/cover.png",
       "media/redmi_watch-2026-08-18-10-56-22.png",
       "media/redmi_watch-2026-08-18-10-56-38.png",
       "media/xiaomi_band_pro-2026-08-18-10-51-27.png",
@@ -37,40 +38,56 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w212.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w212-lite-3.2.0.rpk"
     },
     "xmb10nfc": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w212.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w212-lite-3.2.0.rpk"
     },
     "xmb9": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w192.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w192-lite-3.2.0.rpk"
     },
     "xmb9p": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w336.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w336-lite-3.2.0.rpk"
     },
     "xmws4": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w466.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w466-lite-3.2.0.rpk"
     },
     "xmrw5": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w432.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w432-lite-3.2.0.rpk"
     },
     "xmrw5xring": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w432.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w432-lite-3.2.0.rpk"
     },
     "xmrw6": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w432.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w432-lite-3.2.0.rpk"
     },
     "xmb10p": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.watch.dic.w336.release.3.1.0.rpk"
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w336-lite-3.2.0.rpk"
+    },
+    "xmb11": {
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w212-lite-3.2.0.rpk"
+    },
+    "xmb11nfc": {
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w212-lite-3.2.0.rpk"
+    },
+    "xmws541": {
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w466-lite-3.2.0.rpk"
+    },
+    "xmws5": {
+      "version": "3.2.0",
+      "file_name": "downloads/com.watch.dic.w466-lite-3.2.0.rpk"
     }
   },
   "ext": {}
