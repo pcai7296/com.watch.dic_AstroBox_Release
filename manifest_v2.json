@@ -39,7 +39,7 @@
     "xmb10nfc": {
       "version": "3.3.0",
       "file_name": "downloads/w212-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -50,7 +50,7 @@
     "xmb9": {
       "version": "3.3.0",
       "file_name": "downloads/w192-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -61,7 +61,7 @@
     "xmb9p": {
       "version": "3.3.0",
       "file_name": "downloads/w336-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -72,7 +72,7 @@
     "xmws4": {
       "version": "3.3.0",
       "file_name": "downloads/w466-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -83,7 +83,7 @@
     "xmrw5": {
       "version": "3.3.0",
       "file_name": "downloads/w432-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -94,7 +94,7 @@
     "xmrw5xring": {
       "version": "3.3.0",
       "file_name": "downloads/w432-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -105,7 +105,7 @@
     "xmb10p": {
       "version": "3.3.0",
       "file_name": "downloads/w336-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -116,7 +116,7 @@
     "xmb11": {
       "version": "3.3.0",
       "file_name": "downloads/w212-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -127,7 +127,7 @@
     "xmb11nfc": {
       "version": "3.3.0",
       "file_name": "downloads/w212-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -138,7 +138,7 @@
     "xmws441": {
       "version": "3.3.0",
       "file_name": "downloads/w466-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -149,7 +149,7 @@
     "xmrw6": {
       "version": "3.3.0",
       "file_name": "downloads/w432-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -160,7 +160,7 @@
     "xmb10": {
       "version": "3.3.0",
       "file_name": "downloads/w212-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
@@ -171,7 +171,7 @@
     "xmws4xring": {
       "version": "3.3.0",
       "file_name": "downloads/w466-lite-3.3.0.rpk",
-      "versionCode": 10,
+      "versionCode": 11,
       "updatelogs": [
         {
           "version": "3.3.0",
